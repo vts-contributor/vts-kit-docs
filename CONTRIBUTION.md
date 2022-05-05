@@ -1,1 +1,1 @@
-![Test Image 6](phuc/images/feature-pr.png)
+![Test Image 6](/images/feature-pr.png)
