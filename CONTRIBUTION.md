@@ -1,9 +1,10 @@
-#Feature contribution workflow
+# Feature contribution workflow
 <p align="center">
-    <img width="460" src="/images/feature-pr.png">
+    <img src="/images/feature-pr.png">
 </p>
 
 ### Guide
+
 | Step   | Action                                                                                | Task                                                                                                                                                                                                                                                                                                                                                                                                           | Executor        | Supporter      | Tools                             | Input                               | Output                                            |
 |--------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|-----------------------------------|-------------------------------------|---------------------------------------------------|
 | **1**  | **Search for issue by label "feature"**                                               | **- Approved issues will be highlighted by label. <br/> - Contributors should take a look at **Issue** before start contributing because these are what are lacked and needed for upgrade.**                                                                                                                                                                                                                   | **Contributor** | **Committers** | **Github, Gitlab, Bitbucket,...** | **List of labeled issue**           | **Issue to contribute**                           |
