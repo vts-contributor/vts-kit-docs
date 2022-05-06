@@ -1,7 +1,7 @@
 # Feature contribution workflow
 
 <p align="center">
-    <img src="/images/feature-pr.png">
+    <img src="/images/feature-pr1.png">
 </p>
 
 ### Guide
