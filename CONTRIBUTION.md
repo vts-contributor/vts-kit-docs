@@ -1,7 +1,7 @@
 # Feature contribution workflow
 
 <p align="center">
-    <img src="/images/feature-pr1.png">
+    <img src="/images/feature-pr.png" style="max-width: 100%;object-fit: cover;image-rendering: -webkit-optimize-contrast;">
 </p>
 
 ### Guide
